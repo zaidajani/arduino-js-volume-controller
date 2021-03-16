@@ -32,9 +32,9 @@ And make a structure like the diagram above.
 Go into powershell on windows or terminal on mac and write: 
 
 ```sh
-$ git clone https://github.com/zaidajani/arduino-js-brightness-controller.git
+$ git clone https://github.com/zaidajani/arduino-js-volume-controller.git
 
-$ cd arduino-js-brightness-controller
+$ cd arduino-js-volume-controller
 
 # Clone and get into the folder
 
